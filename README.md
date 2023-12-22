@@ -5,13 +5,11 @@
 
 시장 조사 결과 많은 쇼핑몰들이 한 종류의 카테고리만 다루다 보니, 강아지 용품 따로 소형동물 용품 따로 구매하는 사용자들의 니즈를 충족시키고자 기획한 여러 종류의 반려동물용품을 한 곳에서 구매할 수 있는 **B2C 반려동물용품 쇼핑몰**
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/2e10bc64-d590-4d38-869a-28285f3289c3/dd964e4a-0e01-429a-ad2f-7f60cb622f8b/Untitled.png)
+![2w-1](https://github.com/Sim0321/second-project/assets/105590167/8a097974-6547-4754-829b-1d9d00681735)
+![2w-2](https://github.com/Sim0321/second-project/assets/105590167/0d1a9188-5dd6-4a0e-adee-70e6c9de23eb)
+![2w-3](https://github.com/Sim0321/second-project/assets/105590167/b9682698-f48f-4667-a9a3-9686bc7187c0)
+![2w-4](https://github.com/Sim0321/second-project/assets/105590167/cdf60bdd-e44c-436b-a0e1-006f91adefd8)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/2e10bc64-d590-4d38-869a-28285f3289c3/47e4b321-57d0-4c8c-8b63-bc02d87a8ca7/Untitled.png)
-
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/2e10bc64-d590-4d38-869a-28285f3289c3/89cae300-12d6-444a-8cc8-84daa3868830/Untitled.png)
-
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/2e10bc64-d590-4d38-869a-28285f3289c3/9bd7d857-7628-48d9-9e89-ee96eec3d6b4/Untitled.png)
 
 ## 시연 영상
 
