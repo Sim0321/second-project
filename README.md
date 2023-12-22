@@ -13,7 +13,7 @@
 
 ## 시연 영상
 
-[시연 영상]([https://www.youtube.com/watch?v=NIRo1T6PqRk])
+[시연 영상](https://www.youtube.com/watch?v=NIRo1T6PqRk)
 
 ## 기술 챌린징
 1. Github Aciton을 이용한 CI/CD
